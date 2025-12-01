@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Software Engineer | Trading Systems & Blockchain Security
    
    Building high-performance systems for real-time data processing and DeFi.
