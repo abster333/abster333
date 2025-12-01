@@ -6,4 +6,4 @@
    **Current focus:** Arbitrage detection systems, smart contract security
    
    **Notable projects:**
-   - [Crypto-TriArb]([link](https://github.com/abster333/Crypto-TriArb)) - Dual CEX/DEX arbitrage engine
+   - [Crypto-TriArb](https://github.com/abster333/Crypto-TriArb) - Dual CEX/DEX arbitrage engine
