@@ -9,3 +9,4 @@
    - [Full Trading Platform Implementation](https://github.com/abster333/FullTradingPlat) - A multivenue trading platform
    - [Reverse Collatz Visualization](https://github.com/abster333/Collatz) - Small reverse collatz visualizer.
    - [LEAN-PROOF-For-Collatz](http://github.com/abster333/LEAN-PROOF-For-Collatz) - LEAN implementation of my collatz loop proof
+   - [Small Chess.com Overlay Extension](https://github.com/abster333/ChessOverLay) - A work in progress chess overlay chrome extension, combining my love for coding and chess.  
